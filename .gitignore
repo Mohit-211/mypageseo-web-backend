@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+logs/
+coverage/
+.nyc_output/
+.env
+.env.*
+!.env.example
+.DS_Store
+public/uploads/
+test/
